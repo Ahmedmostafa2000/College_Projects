@@ -1,0 +1,72 @@
+Last Update,Confirmed,Deaths,Recovered,Province/State,Country
+discrete,continuous,continuous,continuous,discrete,discrete
+,,,,meta,meta
+43865.05763888889,13522.0,414.0,396.0,Hubei,Mainland China
+43865.07152777778,829.0,0.0,48.0,Zhejiang,Mainland China
+43865.07152777778,797.0,0.0,21.0,Guangdong,Mainland China
+43865.05763888889,675.0,2.0,20.0,Henan,Mainland China
+43865.07152777778,593.0,0.0,22.0,Hunan,Mainland China
+43865.029861111114,480.0,0.0,14.0,Anhui,Mainland China
+43865.07152777778,476.0,0.0,19.0,Jiangxi,Mainland China
+43864.98819444444,337.0,2.0,9.0,Chongqing,Mainland China
+43865.04375,308.0,0.0,8.0,Jiangsu,Mainland China
+43865.07152777778,282.0,1.0,14.0,Sichuan,Mainland China
+43865.03680555556,270.0,0.0,7.0,Shandong,Mainland China
+43864.39097222222,212.0,1.0,12.0,Beijing,Mainland China
+43865.00902777778,208.0,1.0,10.0,Shanghai,Mainland China
+43864.48125,179.0,0.0,1.0,Fujian,Mainland China
+43865.03680555556,155.0,2.0,2.0,Heilongjiang,Mainland China
+43865.10625,142.0,0.0,1.0,Shaanxi,Mainland China
+43865.02291666667,139.0,0.0,7.0,Guangxi,Mainland China
+43865.01597222222,126.0,1.0,3.0,Hebei,Mainland China
+43864.97430555556,117.0,0.0,5.0,Yunnan,Mainland China
+43865.029861111114,79.0,1.0,4.0,Hainan,Mainland China
+43864.71597222222,74.0,0.0,1.0,Liaoning,Mainland China
+43864.967361111114,74.0,0.0,2.0,Shanxi,Mainland China
+43864.57847222222,60.0,0.0,1.0,Tianjin,Mainland China
+43865.04375,56.0,0.0,2.0,Guizhou,Mainland China
+43864.96041666667,55.0,0.0,3.0,Gansu,Mainland China
+43865.01597222222,42.0,0.0,1.0,Jilin,Mainland China
+43864.12708333333,34.0,0.0,1.0,Inner Mongolia,Mainland China
+43865.092361111114,34.0,0.0,1.0,Ningxia,Mainland China
+43865.06458333333,29.0,0.0,0.0,Xinjiang,Mainland China
+43862.78680555556,20.0,0.0,1.0,,Japan
+43861.44236111111,19.0,0.0,5.0,,Thailand
+43863.04375,18.0,0.0,0.0,,Singapore
+43863.99513888889,15.0,0.0,0.0,Hong Kong,Hong Kong
+43865.06458333333,15.0,0.0,0.0,Qinghai,Mainland China
+43863.09930555556,15.0,0.0,0.0,,South Korea
+43864.87013888889,12.0,0.0,0.0,,Germany
+43861.63888888889,10.0,0.0,0.0,Taiwan,Taiwan
+43863.18263888889,8.0,0.0,0.0,Macau,Macau
+43861.34375,8.0,0.0,0.0,,Malaysia
+43864.904861111114,8.0,0.0,1.0,,Vietnam
+43862.07777777778,6.0,0.0,0.0,,France
+43863.23819444444,5.0,0.0,0.0,,United Arab Emirates
+43862.75833333333,4.0,0.0,2.0,New South Wales,Australia
+43862.75833333333,4.0,0.0,0.0,Victoria,Australia
+43864.904861111114,3.0,0.0,0.0,,India
+43863.93958333333,2.0,0.0,0.0,Queensland,Australia
+43863.93958333333,2.0,0.0,0.0,South Australia,Australia
+43865.00902777778,2.0,0.0,0.0,"Toronto, ON",Canada
+43861.34375,2.0,0.0,0.0,,Italy
+43863.14791666667,2.0,1.0,0.0,,Philippines
+43861.67569444444,2.0,0.0,0.0,,Russia
+43862.07777777778,2.0,0.0,0.0,,UK
+43862.82152777778,2.0,0.0,0.0,"Chicago, IL",US
+43864.16180555556,2.0,0.0,0.0,"San Benito, CA",US
+43864.029861111114,2.0,0.0,0.0,"Santa Clara, CA",US
+43861.34375,1.0,0.0,0.0,,Cambodia
+43862.75833333333,1.0,0.0,0.0,British Columbia,Canada
+43865.00208333333,1.0,0.0,0.0,"London, ON",Canada
+43861.34375,1.0,0.0,0.0,,Finland
+43862.07777777778,1.0,0.0,0.0,Tibet,Mainland China
+43861.34375,1.0,0.0,0.0,,Nepal
+43862.98819444444,1.0,0.0,0.0,,Spain
+43861.34375,1.0,0.0,0.0,,Sri Lanka
+43862.092361111114,1.0,0.0,0.0,,Sweden
+43862.82152777778,1.0,0.0,0.0,"Boston, MA",US
+43862.82847222222,1.0,0.0,0.0,"Los Angeles, CA",US
+43862.82847222222,1.0,0.0,0.0,"Orange, CA",US
+43862.82152777778,1.0,0.0,0.0,"Seattle, WA",US
+43862.82152777778,1.0,0.0,0.0,"Tempe, AZ",US

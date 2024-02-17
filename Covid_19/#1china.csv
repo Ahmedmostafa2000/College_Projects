@@ -1,0 +1,402 @@
+Country,Province/State,Last Update,Confirmed,Deaths,Recovered,nDate
+China,Heilongjiang,1/22/2020 12:00,0,0,0,22
+China,Hunan,1/22/2020 12:00,4,0,0,22
+China,Shanxi,1/22/2020 12:00,1,0,0,22
+China,Ningxia,1/22/2020 12:00,1,0,0,22
+China,Xinjiang,1/22/2020 12:00,0,0,0,22
+China,Guangxi,1/22/2020 12:00,2,0,0,22
+China,Liaoning,1/22/2020 12:00,2,0,0,22
+China,Chongqing,1/22/2020 12:00,6,0,0,22
+China,Qinghai,1/22/2020 12:00,0,0,0,22
+China,Guangdong,1/22/2020 12:00,26,0,0,22
+China,Tibet,1/22/2020 12:00,0,0,0,22
+China,Macau,1/22/2020 12:00,1,0,0,22
+China,Fujian,1/22/2020 12:00,1,0,0,22
+China,Hubei,1/22/2020 12:00,444,0,0,22
+China,Hainan,1/22/2020 12:00,4,0,0,22
+China,Tianjin,1/22/2020 12:00,4,0,0,22
+China,Hong Kong,1/22/2020 12:00,0,0,0,22
+China,Gansu,1/22/2020 12:00,0,0,0,22
+China,Henan,1/22/2020 12:00,5,0,0,22
+China,Sichuan,1/22/2020 12:00,5,0,0,22
+China,Shaanxi,1/22/2020 12:00,0,0,0,22
+China,Inner Mongolia,1/22/2020 12:00,0,0,0,22
+China,Taiwan,1/22/2020 12:00,1,0,0,22
+China,Zhejiang,1/22/2020 12:00,10,0,0,22
+China,Yunnan,1/22/2020 12:00,1,0,0,22
+China,Shanghai,1/22/2020 12:00,9,0,0,22
+China,Jiangxi,1/22/2020 12:00,2,0,0,22
+China,Hebei,1/22/2020 12:00,1,0,0,22
+China,Jilin,1/22/2020 12:00,0,0,0,22
+China,Anhui,1/22/2020 12:00,1,0,0,22
+China,Jiangsu,1/22/2020 12:00,1,0,0,22
+China,Guizhou,1/22/2020 12:00,1,0,0,22
+China,Shandong,1/22/2020 12:00,2,0,0,22
+China,Beijing,1/22/2020 12:00,14,0,0,22
+Mainland China,Shaanxi,1/24/2020 12:00,5,0,0,24
+Mainland China,Shandong,1/29/2020 21:00,145,0,1,29
+Mainland China,Qinghai,1/30/2020 21:30,8,0,0,30
+Mainland China,Qinghai,1/27/2020 20:30,6,0,0,27
+Mainland China,Qinghai,1/26/2020 23:00,4,0,0,26
+Mainland China,Shandong,1/24/2020 12:00,15,0,0,24
+Mainland China,Qinghai,1/24/2020 12:00,0,0,0,24
+Mainland China,Ningxia,1/31/2020 19:00,21,0,1,31
+Mainland China,Shandong,1/28/2020 23:00,121,0,0,28
+Mainland China,Shandong,2/4/2020 0:53,270,0,7,35
+Mainland China,Qinghai,1/25/2020 12:00,1,0,0,25
+Mainland China,Qinghai,1/23/2020 12:00,0,0,0,23
+Mainland China,Qinghai,1/31/2020 19:00,8,0,0,31
+Mainland China,Shandong,1/25/2020 12:00,39,0,0,25
+Mainland China,Shaanxi,1/25/2020 12:00,15,0,0,25
+Mainland China,Shaanxi,1/28/2020 23:00,56,0,0,28
+Mainland China,Shaanxi,2/4/2020 2:33,142,0,1,35
+Mainland China,Shaanxi,1/23/2020 12:00,3,0,0,23
+Mainland China,Shaanxi,1/31/2020 19:00,87,0,0,31
+Mainland China,Shaanxi,2/2/2020 3:23,116,0,0,33
+Mainland China,Shaanxi,1/30/2020 21:30,87,0,0,30
+Mainland China,Shaanxi,2/2/2020 3:23,116,0,0,33
+Mainland China,Qinghai,1/2/2020 5:37,9,0,0,2
+Mainland China,Shaanxi,1/27/2020 20:30,35,0,0,27
+Mainland China,Shaanxi,1/29/2020 21:00,56,0,0,29
+Mainland China,Qinghai,2/2/2020 5:33,11,0,0,33
+Mainland China,Qinghai,2/4/2020 1:33,15,0,0,35
+Mainland China,Qinghai,1/29/2020 21:00,6,0,0,29
+Mainland China,Shaanxi,1/26/2020 23:00,22,0,0,26
+Mainland China,Qinghai,1/28/2020 23:00,6,0,0,28
+Mainland China,Anhui,1/25/2020 12:00,60,0,0,25
+Mainland China,Ningxia,2/2/2020 1:43,28,0,0,33
+Mainland China,Ningxia,2/4/2020 2:13,34,0,1,35
+Mainland China,Jilin,1/29/2020 21:00,14,0,1,29
+Mainland China,Jilin,1/26/2020 23:00,6,0,0,26
+Mainland China,Jilin,1/31/2020 19:00,14,0,1,31
+Mainland China,Jilin,1/28/2020 23:00,9,0,0,28
+Mainland China,Jilin,1/27/2020 20:30,6,0,0,27
+Mainland China,Jilin,1/30/2020 21:30,14,0,1,30
+Mainland China,Jilin,2/4/2020 0:23,42,0,1,35
+Mainland China,Jilin,3/2/2020 0:53,31,0,1,36
+Mainland China,Jiangxi,1/24/2020 12:00,18,0,0,24
+Mainland China,Jiangxi,2/2/2020 1:23,333,0,10,33
+Mainland China,Jiangxi,1/25/2020 12:00,36,0,0,25
+Mainland China,Jiangxi,1/23/2020 12:00,7,0,0,23
+Mainland China,Jiangxi,1/28/2020 23:00,109,0,3,28
+Mainland China,Jiangxi,1/27/2020 20:30,72,0,2,27
+Mainland China,Jiangxi,1/26/2020 23:00,48,0,0,26
+Mainland China,Jiangxi,3/2/2020 1:33,391,0,18,36
+Mainland China,Jiangxi,1/31/2020 19:00,240,0,7,31
+Mainland China,Jiangxi,1/29/2020 21:00,162,0,4,29
+Mainland China,Jiangxi,2/4/2020 1:43,476,0,19,35
+Mainland China,Jilin,1/24/2020 12:00,3,0,0,24
+Mainland China,Jilin,1/23/2020 12:00,1,0,0,23
+Mainland China,Jilin,2/2/2020 2:33,23,0,1,33
+Mainland China,Jilin,1/25/2020 12:00,4,0,0,25
+Mainland China,Ningxia,1/26/2020 23:00,4,0,0,26
+Mainland China,Ningxia,1/27/2020 20:30,7,0,0,27
+Mainland China,Ningxia,1/28/2020 23:00,12,0,0,28
+Mainland China,Ningxia,1/29/2020 21:00,12,0,0,29
+Mainland China,Ningxia,2/2/2020 1:43,28,0,0,33
+Mainland China,Ningxia,1/25/2020 12:00,4,0,0,25
+Mainland China,Ningxia,1/30/2020 21:30,21,0,1,30
+Mainland China,Ningxia,1/24/2020 12:00,2,0,0,24
+Mainland China,Liaoning,2/2/2020 18:03,70,0,1,33
+Mainland China,Ningxia,1/23/2020 12:00,1,0,0,23
+Mainland China,Liaoning,1/28/2020 23:00,36,0,0,28
+Mainland China,Liaoning,1/25/2020 12:00,19,0,0,25
+Mainland China,Liaoning,1/2/2020 15:23,64,0,1,2
+Mainland China,Liaoning,1/23/2020 12:00,3,0,0,23
+Mainland China,Liaoning,1/26/2020 23:00,23,0,0,26
+Mainland China,Liaoning,1/29/2020 21:00,39,0,1,29
+Mainland China,Liaoning,1/27/2020 20:30,27,0,0,27
+Mainland China,Liaoning,1/24/2020 12:00,4,0,0,24
+Mainland China,Liaoning,1/31/2020 19:00,60,0,1,31
+Mainland China,Liaoning,2/3/2020 17:11,74,0,1,34
+Mainland China,Liaoning,1/30/2020 21:30,45,0,1,30
+Mainland China,Shandong,1/23/2020 12:00,6,0,0,23
+Mainland China,Shanghai,2/4/2020 0:13,208,1,10,35
+Mainland China,Shandong,2/2/2020 1:03,225,0,5,33
+Mainland China,Xinjiang,1/30/2020 21:30,17,0,0,30
+Mainland China,Xinjiang,3/2/2020 1:13,24,0,0,36
+Mainland China,Xinjiang,1/25/2020 12:00,4,0,0,25
+Mainland China,Xinjiang,1/23/2020 12:00,2,0,0,23
+Mainland China,Xinjiang,1/29/2020 21:00,14,0,0,29
+Mainland China,Xinjiang,1/31/2020 19:00,17,0,0,31
+Mainland China,Xinjiang,1/28/2020 23:00,13,0,0,28
+Mainland China,Xinjiang,2/4/2020 1:33,29,0,0,35
+Mainland China,Xinjiang,1/27/2020 20:30,5,0,0,27
+Mainland China,Xinjiang,2/2/2020 0:43,21,0,0,33
+Mainland China,Xinjiang,1/24/2020 12:00,2,0,0,24
+Mainland China,Tibet,1/23/2020 12:00,0,0,0,23
+Mainland China,Tibet,1/30/2020 21:30,1,0,0,30
+Mainland China,Tibet,1/2/2020 1:52,1,0,0,2
+Mainland China,Tibet,1/29/2020 21:00,1,0,0,29
+Mainland China,Tibet,1/31/2020 19:00,1,0,0,31
+Mainland China,Tibet,1/2/2020 1:52,1,0,0,2
+Mainland China,Tianjin,1/26/2020 23:00,14,0,0,26
+Mainland China,Tianjin,2/2/2020 9:43,48,0,1,33
+Mainland China,Tianjin,1/30/2020 21:30,32,0,0,30
+Mainland China,Tibet,2/1/2020 1:52,1,0,0,32
+Mainland China,Tianjin,2/2/2020 2:03,45,0,0,33
+Mainland China,Xinjiang,1/26/2020 23:00,5,0,0,26
+Mainland China,Yunnan,1/31/2020 19:00,83,0,1,31
+Mainland China,Zhejiang,1/29/2020 21:00,428,0,4,29
+Mainland China,Zhejiang,1/27/2020 20:30,173,0,1,27
+Mainland China,Zhejiang,1/26/2020 23:00,128,0,1,26
+Mainland China,Zhejiang,1/28/2020 23:00,296,0,3,28
+Mainland China,Zhejiang,1/25/2020 22:00,104,0,1,25
+Mainland China,Zhejiang,1/23/2020 12:00,27,0,0,23
+Mainland China,Zhejiang,1/24/2020 12:00,43,0,1,24
+Mainland China,Zhejiang,1/31/2020 19:00,537,0,14,31
+Mainland China,Zhejiang,3/2/2020 1:33,724,0,36,36
+Mainland China,Yunnan,1/29/2020 21:00,55,0,0,29
+Mainland China,Zhejiang,2/4/2020 1:43,829,0,48,35
+Mainland China,Yunnan,2/3/2020 23:23,117,0,5,34
+Mainland China,Yunnan,1/26/2020 23:00,19,0,0,26
+Mainland China,Yunnan,1/25/2020 12:00,11,0,0,25
+Mainland China,Yunnan,1/27/2020 20:30,26,0,0,27
+Mainland China,Yunnan,2/2/2020 18:03,105,0,3,33
+Mainland China,Yunnan,1/24/2020 12:00,5,0,0,24
+Mainland China,Yunnan,1/28/2020 23:00,44,0,0,28
+Mainland China,Yunnan,1/2/2020 15:53,93,0,2,2
+Mainland China,Yunnan,1/30/2020 21:30,76,0,0,30
+Mainland China,Yunnan,1/23/2020 12:00,2,0,0,23
+Mainland China,Shandong,1/31/2020 19:00,184,0,2,31
+Mainland China,Tianjin,1/23/2020 12:00,4,0,0,23
+Mainland China,Tianjin,1/28/2020 23:00,25,0,0,28
+Mainland China,Shanxi,1/27/2020 20:30,20,0,0,27
+Mainland China,Shanxi,1/30/2020 21:30,39,0,1,30
+Mainland China,Shanxi,1/23/2020 12:00,1,0,0,23
+Mainland China,Shanxi,2/2/2020 23:23,66,0,3,33
+Mainland China,Shanxi,1/24/2020 12:00,1,0,0,24
+Mainland China,Shanghai,1/30/2020 21:30,128,1,9,30
+Mainland China,Shanghai,1/31/2020 19:00,153,1,9,31
+Mainland China,Shanghai,1/28/2020 23:00,80,1,4,28
+Mainland China,Shanghai,1/29/2020 21:00,101,1,5,29
+Mainland China,Shanxi,1/28/2020 23:00,27,0,0,28
+Mainland China,Shanghai,1/24/2020 12:00,20,0,1,24
+Mainland China,Shanghai,3/2/2020 0:03,193,1,10,36
+Mainland China,Shanghai,1/26/2020 23:00,53,1,1,26
+Mainland China,Shanghai,1/27/2020 20:30,66,1,3,27
+Mainland China,Shanghai,1/23/2020 12:00,16,0,0,23
+Mainland China,Shanghai,2/2/2020 0:23,177,1,10,33
+Mainland China,Shandong,1/30/2020 21:30,178,0,2,30
+Mainland China,Shandong,1/26/2020 23:00,63,0,0,26
+Mainland China,Shandong,3/2/2020 1:13,246,0,6,36
+Mainland China,Shandong,1/27/2020 20:30,87,1,0,27
+Mainland China,Shanghai,1/25/2020 12:00,40,1,1,25
+Mainland China,Tianjin,1/24/2020 12:00,8,0,0,24
+Mainland China,Shanxi,2/3/2020 23:13,74,0,2,34
+Mainland China,Shanxi,1/29/2020 21:00,35,0,1,29
+Mainland China,Tianjin,2/3/2020 13:53,60,0,1,34
+Mainland China,Tianjin,1/31/2020 19:00,32,0,0,31
+Mainland China,Tianjin,1/27/2020 20:30,23,0,0,27
+Mainland China,Tianjin,1/29/2020 21:00,27,0,0,29
+Mainland China,Tianjin,1/25/2020 12:00,13,0,0,25
+Mainland China,Sichuan,2/4/2020 1:43,282,1,14,35
+Mainland China,Sichuan,1/28/2020 23:00,108,0,0,28
+Mainland China,Sichuan,1/31/2020 19:00,177,1,1,31
+Mainland China,Sichuan,1/29/2020 21:00,142,1,1,29
+Mainland China,Shanxi,1/25/2020 12:00,9,0,0,25
+Mainland China,Sichuan,1/30/2020 21:30,177,1,1,30
+Mainland China,Sichuan,2/2/2020 1:03,231,1,3,33
+Mainland China,Sichuan,3/2/2020 1:03,254,1,12,36
+Mainland China,Sichuan,1/27/2020 20:30,90,0,0,27
+Mainland China,Sichuan,1/23/2020 12:00,8,0,0,23
+Mainland China,Sichuan,1/25/2020 12:00,44,0,0,25
+Mainland China,Sichuan,1/26/2020 23:00,69,0,0,26
+Mainland China,Shanxi,1/26/2020 23:00,13,0,0,26
+Mainland China,Shanxi,1/31/2020 19:00,47,0,1,31
+Mainland China,Shanxi,1/2/2020 23:33,56,0,1,2
+Mainland China,Sichuan,1/24/2020 12:00,15,0,0,24
+Mainland China,Jiangxi,1/30/2020 21:30,240,0,7,30
+Mainland China,Jiangsu,2/2/2020 1:13,236,0,6,33
+Mainland China,Jiangsu,1/29/2020 21:00,129,0,1,29
+Mainland China,Guangdong,1/30/2020 21:30,393,0,11,30
+Mainland China,Guangdong,1/28/2020 23:00,241,0,5,28
+Mainland China,Guangdong,2/4/2020 1:43,797,0,21,35
+Mainland China,Guangdong,1/29/2020 21:00,311,0,6,29
+Mainland China,Guangdong,1/31/2020 19:00,436,0,10,31
+Mainland China,Guangdong,1/24/2020 12:00,53,0,2,24
+Mainland China,Guangdong,1/27/2020 20:30,151,0,4,27
+Mainland China,Guangdong,1/26/2020 23:00,146,0,2,26
+Mainland China,Guangdong,2/2/2020 1:23,604,0,14,33
+Mainland China,Guangdong,1/23/2020 12:00,32,0,2,23
+Mainland China,Gansu,1/2/2020 15:43,40,0,0,2
+Mainland China,Gansu,1/26/2020 23:00,14,0,0,26
+Mainland China,Gansu,1/23/2020 12:00,2,0,0,23
+Mainland China,Gansu,1/30/2020 21:30,29,0,0,30
+Mainland China,Gansu,1/27/2020 20:30,19,0,0,27
+Mainland China,Gansu,1/29/2020 21:00,26,0,0,29
+Mainland China,Gansu,1/24/2020 12:00,2,0,0,24
+Mainland China,Gansu,1/31/2020 19:00,35,0,0,31
+Mainland China,Gansu,1/25/2020 12:00,7,0,0,25
+Mainland China,Gansu,1/28/2020 23:00,24,0,0,28
+Mainland China,Gansu,2/2/2020 23:43,51,0,3,33
+Mainland China,Gansu,2/3/2020 23:03,55,0,3,34
+Mainland China,Guangdong,1/25/2020 12:00,98,0,2,25
+Mainland China,Guangxi,1/24/2020 12:00,23,0,0,24
+Mainland China,Guizhou,2/2/2020 1:03,38,0,2,33
+Mainland China,Guizhou,1/28/2020 23:00,9,0,0,28
+Mainland China,Guizhou,1/26/2020 23:00,7,0,0,26
+Mainland China,Guizhou,1/30/2020 21:30,15,0,1,30
+Mainland China,Guizhou,3/2/2020 1:03,46,0,2,36
+Mainland China,Guizhou,1/23/2020 12:00,3,0,0,23
+Mainland China,Guizhou,1/31/2020 19:00,29,0,2,31
+Mainland China,Guizhou,1/29/2020 21:00,12,0,1,29
+Mainland China,Guizhou,1/25/2020 12:00,5,0,0,25
+Mainland China,Guangdong,3/2/2020 1:33,683,0,15,36
+Mainland China,Guangxi,1/30/2020 21:30,87,0,2,30
+Mainland China,Guangxi,2/2/2020 0:23,111,0,2,33
+Mainland China,Guangxi,3/2/2020 0:13,127,0,2,36
+Mainland China,Guangxi,1/27/2020 20:30,51,0,0,27
+Mainland China,Guangxi,1/31/2020 19:00,88,0,2,31
+Mainland China,Guangxi,1/28/2020 23:00,58,0,2,28
+Mainland China,Guangxi,1/23/2020 12:00,5,0,0,23
+Mainland China,Guangxi,1/25/2020 12:00,33,0,0,25
+Mainland China,Guangxi,1/26/2020 23:00,46,0,0,26
+Mainland China,Guangxi,1/29/2020 21:00,78,0,2,29
+Mainland China,Guangxi,2/4/2020 0:33,139,0,7,35
+Mainland China,Guizhou,2/4/2020 1:03,56,0,2,35
+Mainland China,Fujian,1/28/2020 23:00,82,0,0,28
+Mainland China,Fujian,1/29/2020 21:00,101,0,0,29
+Mainland China,Beijing,1/26/2020 23:00,68,0,2,26
+Mainland China,Beijing,1/24/2020 12:00,36,0,1,24
+Mainland China,Beijing,2/3/2020 9:23,212,1,12,34
+Mainland China,Beijing,1/27/2020 20:30,80,1,2,27
+Mainland China,Beijing,1/30/2020 21:30,121,1,5,30
+Mainland China,Beijing,1/29/2020 21:00,111,1,4,29
+Mainland China,Beijing,1/25/2020 12:00,51,0,2,25
+Mainland China,Beijing,1/28/2020 23:00,91,1,4,28
+Mainland China,Beijing,1/23/2020 12:00,22,0,0,23
+Mainland China,Beijing,2/2/2020 3:05,183,1,9,33
+Mainland China,Anhui,1/26/2020 23:00,70,0,0,26
+Mainland China,Anhui,1/24/2020 12:00,15,0,0,24
+Mainland China,Anhui,1/28/2020 23:00,152,0,0,28
+Mainland China,Anhui,1/23/2020 12:00,9,0,0,23
+Mainland China,Anhui,1/27/2020 20:30,106,0,0,27
+Mainland China,Anhui,2/4/2020 0:43,480,0,14,35
+Mainland China,Anhui,3/2/2020 0:53,408,0,7,36
+Mainland China,Anhui,1/29/2020 21:00,200,0,2,29
+Mainland China,Anhui,1/31/2020 19:00,237,0,3,31
+Mainland China,Anhui,1/30/2020 21:30,237,0,3,30
+Mainland China,Anhui,2/2/2020 1:33,340,0,5,33
+Mainland China,Fujian,1/31/2020 19:00,120,0,0,31
+Mainland China,Beijing,2/2/2020 8:43,191,1,9,33
+Mainland China,Chongqing,1/31/2020 19:00,238,1,1,31
+Mainland China,Fujian,1/23/2020 12:00,5,0,0,23
+Mainland China,Fujian,1/25/2020 12:00,18,1,0,25
+Mainland China,Fujian,1/30/2020 21:30,101,0,0,30
+Mainland China,Fujian,1/26/2020 23:00,35,0,0,26
+Mainland China,Fujian,1/24/2020 12:00,10,0,0,24
+Mainland China,Fujian,2/2/2020 3:43,159,0,0,33
+Mainland China,Fujian,2/3/2020 11:33,179,0,1,34
+Mainland China,Fujian,1/27/2020 20:30,59,0,0,27
+Mainland China,Fujian,2/2/2020 3:43,159,0,0,33
+Mainland China,Beijing,1/31/2020 19:00,139,1,5,31
+Mainland China,Chongqing,1/2/2020 23:43,262,1,3,2
+Mainland China,Chongqing,1/25/2020 12:00,75,0,0,25
+Mainland China,Chongqing,1/26/2020 23:00,110,0,0,26
+Mainland China,Chongqing,1/27/2020 20:30,132,0,0,27
+Mainland China,Chongqing,1/30/2020 21:30,206,0,1,30
+Mainland China,Chongqing,1/24/2020 12:00,27,0,0,24
+Mainland China,Chongqing,1/29/2020 21:00,165,0,1,29
+Mainland China,Chongqing,1/23/2020 12:00,9,0,0,23
+Mainland China,Chongqing,2/3/2020 23:43,337,2,9,34
+Mainland China,Chongqing,2/2/2020 23:33,300,2,7,33
+Mainland China,Chongqing,1/28/2020 23:00,147,0,1,28
+Mainland China,Guizhou,1/27/2020 20:30,9,0,0,27
+Mainland China,Guizhou,1/24/2020 12:00,3,0,0,24
+Mainland China,Hainan,1/30/2020 21:30,50,1,1,30
+Mainland China,Hunan,1/30/2020 21:30,332,0,2,30
+Mainland China,Hunan,1/29/2020 21:00,277,0,0,29
+Mainland China,Hunan,1/31/2020 19:00,332,0,3,31
+Mainland China,Hunan,1/26/2020 23:00,100,0,0,26
+Mainland China,Hunan,1/25/2020 12:00,69,0,0,25
+Mainland China,Hunan,1/28/2020 23:00,221,0,0,28
+Mainland China,Hunan,1/23/2020 12:00,9,0,0,23
+Mainland China,Hunan,2/4/2020 1:43,593,0,22,35
+Mainland China,Hunan,3/2/2020 1:33,521,0,16,36
+Mainland China,Hunan,1/24/2020 12:00,24,0,0,24
+Mainland China,Hunan,2/2/2020 1:53,463,0,8,33
+Mainland China,Hubei,1/23/2020 12:00,444,17,28,23
+Mainland China,Hubei,1/25/2020 22:00,1052,52,42,25
+Mainland China,Hubei,1/29/2020 21:00,4586,162,90,29
+Mainland China,Hubei,2/2/2020 23:43,11177,350,295,33
+Mainland China,Hubei,1/26/2020 23:00,1423,76,44,26
+Mainland China,Hubei,1/24/2020 12:00,549,24,31,24
+Mainland China,Hubei,1/28/2020 23:00,3554,125,80,28
+Mainland China,Hubei,2/4/2020 1:23,13522,414,396,35
+Mainland China,Hubei,1/27/2020 20:30,2714,100,47,27
+Mainland China,Hubei,1/30/2020 21:30,5806,204,116,30
+Mainland China,Hubei,1/31/2020 19:00,7153,249,169,31
+Mainland China,Hunan,1/27/2020 20:30,100,0,0,27
+Mainland China,Inner Mongolia,2/3/2020 3:03,34,0,1,34
+Mainland China,Jiangsu,1/27/2020 20:30,70,0,1,27
+Mainland China,Jiangsu,1/30/2020 21:30,168,0,2,30
+Mainland China,Jiangsu,1/31/2020 19:00,168,0,5,31
+Mainland China,Jiangsu,1/23/2020 12:00,5,0,0,23
+Mainland China,Jiangsu,1/24/2020 12:00,9,0,0,24
+Mainland China,Zhejiang,1/30/2020 21:30,537,0,9,30
+Mainland China,Jiangsu,2/4/2020 1:03,308,0,8,35
+Mainland China,Jiangsu,1/28/2020 23:00,99,0,1,28
+Mainland China,Jiangsu,1/26/2020 23:00,47,0,1,26
+Mainland China,Inner Mongolia,1/30/2020 21:30,20,0,0,30
+Mainland China,Jiangsu,3/2/2020 1:03,271,0,7,36
+Mainland China,Inner Mongolia,1/24/2020 12:00,1,0,0,24
+Mainland China,Inner Mongolia,1/31/2020 19:00,20,0,0,31
+Mainland China,Inner Mongolia,1/25/2020 12:00,7,0,0,25
+Mainland China,Inner Mongolia,2/2/2020 3:43,27,0,1,33
+Mainland China,Inner Mongolia,1/29/2020 21:00,16,0,0,29
+Mainland China,Inner Mongolia,1/26/2020 23:00,11,0,0,26
+Mainland China,Inner Mongolia,2/2/2020 3:43,27,0,1,33
+Mainland China,Inner Mongolia,1/27/2020 20:30,11,0,0,27
+Mainland China,Inner Mongolia,1/28/2020 23:00,16,0,0,28
+Mainland China,Inner Mongolia,1/23/2020 12:00,0,0,0,23
+Mainland China,Hubei,1/2/2020 23:33,9074,294,215,2
+Mainland China,Henan,1/30/2020 21:30,352,2,3,30
+Mainland China,Henan,1/31/2020 19:00,352,2,3,31
+Mainland China,Hebei,1/25/2020 12:00,13,1,0,25
+Mainland China,Hebei,1/30/2020 21:30,82,1,0,30
+Mainland China,Hebei,1/27/2020 20:30,33,1,0,27
+Mainland China,Hebei,1/24/2020 12:00,2,1,0,24
+Mainland China,Hebei,2/4/2020 0:23,126,1,3,35
+Mainland China,Hebei,1/29/2020 21:00,65,1,0,29
+Mainland China,Hebei,1/26/2020 23:00,18,1,0,26
+Mainland China,Hebei,1/31/2020 19:00,96,1,0,31
+Mainland China,Hebei,1/23/2020 12:00,1,1,0,23
+Mainland China,Hebei,1/28/2020 23:00,48,1,0,28
+Mainland China,Hainan,2/4/2020 0:43,79,1,4,35
+Mainland China,Hainan,1/23/2020 12:00,5,0,0,23
+Mainland China,Hainan,3/2/2020 0:43,71,1,4,36
+Mainland China,Hainan,1/26/2020 23:00,22,0,0,26
+Mainland China,Hainan,1/29/2020 21:00,43,1,0,29
+Mainland China,Hainan,1/31/2020 19:00,58,1,1,31
+Mainland China,Hainan,1/27/2020 20:30,33,1,0,27
+Mainland China,Hainan,1/28/2020 23:00,43,1,0,28
+Mainland China,Hainan,1/25/2020 12:00,19,0,0,25
+Mainland China,Hainan,2/2/2020 1:03,63,1,1,33
+Mainland China,Hainan,1/24/2020 12:00,8,0,0,24
+Mainland China,Hebei,3/2/2020 0:23,113,1,3,36
+Mainland China,Hebei,2/2/2020 2:53,104,1,3,33
+Mainland China,Heilongjiang,1/25/2020 12:00,15,0,0,25
+Mainland China,Henan,1/26/2020 23:00,128,1,0,26
+Mainland China,Henan,3/2/2020 1:03,566,2,14,36
+Mainland China,Henan,1/25/2020 12:00,83,1,0,25
+Mainland China,Henan,1/23/2020 12:00,5,0,0,23
+Mainland China,Henan,1/28/2020 23:00,206,2,1,28
+Mainland China,Henan,2/2/2020 0:53,493,2,4,33
+Mainland China,Henan,1/27/2020 20:30,168,1,0,27
+Mainland China,Henan,2/4/2020 1:23,675,2,20,35
+Mainland China,Henan,1/29/2020 21:00,278,2,2,29
+Mainland China,Henan,1/24/2020 12:00,9,0,0,24
+Mainland China,Heilongjiang,1/31/2020 19:00,59,2,0,31
+Mainland China,Heilongjiang,1/24/2020 12:00,4,1,0,24
+Mainland China,Heilongjiang,2/2/2020 3:23,95,2,2,33
+Mainland China,Heilongjiang,1/29/2020 21:00,43,1,0,29
+Mainland China,Heilongjiang,2/2/2020 3:23,95,2,2,33
+Mainland China,Heilongjiang,1/27/2020 20:30,30,1,0,27
+Mainland China,Heilongjiang,1/30/2020 21:30,59,2,0,30
+Mainland China,Heilongjiang,1/28/2020 23:00,37,1,0,28
+Mainland China,Heilongjiang,1/26/2020 23:00,21,1,0,26
+Mainland China,Heilongjiang,2/4/2020 0:53,155,2,2,35
+Mainland China,Heilongjiang,1/23/2020 12:00,2,0,0,23
+Mainland China,Jiangsu,1/25/2020 12:00,31,0,1,25
+Mainland China,Zhejiang,2/2/2020 2:13,661,0,23,33
