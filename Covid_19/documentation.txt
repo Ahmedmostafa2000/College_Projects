@@ -1,0 +1,25 @@
+Refrences:
+CSSE data :	https://github.com/CSSEGISandData/COVID-19
+		[for updates from diffrent regions in the same country; sum of all regions was taken]
+Weather data:	https://weather.com/
+		https:accuweather.com/ (Egypt only)
+		[weather data was manualy entered for year 2020]
+		[There was days without any confirmed cases]
+		[weather data was collected as next
+		US:Newyork city as most of the cases was confirmed there
+		Egypt: Cairo(Capital)
+		Austalia:Canberra(Capital)
+		Italy:Rome(Capital)]
+data cols:[Date;Confirmed;Deaths;Recovered;max;min;cloud;rain;Province/State]
+
+Date: update time
+max: Maximum temprature
+min: Minimum temprature
+
+Notes:
+	Newyork watched severe weather last two months but the weather is getting warmer and less rainy
+	Australia was mild last two months but weather is going bad as the temprature is getting low and weather is getting rainy
+	Egypt's weather will be hot next month 
+	Italy's weather will be more cold next two months
+		
+
